@@ -58,15 +58,16 @@ h4{
 
 .header {
     max-width: 100%;
-    border-left-color: grey;
+    /*border-left-color: grey;
     border-left-width: 3px;
-    border-left-style: solid;
-    margin: 0px 13px 0px 10px;
+    border-left-style: solid;*/
+    margin: 0px 10px 0px 10px;
 }
 
 .descripcion {
 	border-bottom: 2px solid #aaaaaa;
-	padding: 5px 15px 30px 15px
+	padding: 35px 15px 50px;
+    margin: 5px;
 }
 
 .hacemos {
